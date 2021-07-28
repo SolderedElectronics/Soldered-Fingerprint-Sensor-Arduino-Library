@@ -6,11 +6,30 @@
 # Datatypes (KEYWORD1)
 ##################################################
 
+FingerprintSensor KEYWORD1
+
 ##################################################
 # Methods and Functions (KEYWORD2)
 ##################################################
 
-begin	KEYWORD2
+begin KEYWORD2
+verifyPassword KEYWORD2
+getParameters KEYWORD2
+getImage KEYWORD2
+image2Tz KEYWORD2
+createModel KEYWORD2
+emptyDatabase KEYWORD2
+storeModel KEYWORD2
+loadModel KEYWORD2
+getModel KEYWORD2
+deleteModel KEYWORD2
+fingerFastSearch KEYWORD2
+fingerSearch KEYWORD2
+getTemplateCount KEYWORD2
+setPassword KEYWORD2
+LEDcontrol KEYWORD2
+writeStructuredPacket KEYWORD2
+getStructuredPacket KEYWORD2
 
 ##################################################
 # Constants (LITERAL1)
