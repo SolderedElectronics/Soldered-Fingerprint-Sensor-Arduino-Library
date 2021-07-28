@@ -130,7 +130,8 @@ uint8_t downloadFingerprintTemplate(uint16_t id)
         uindx += 256;
         while (index < uindx)
         {
-            fingerTemplate[index++] = bytesReceived[index];
+            fingerTemplate[index] = bytesReceived[index];
+            ++index;
         }
         uindx += 2;
         while (index < uindx)
