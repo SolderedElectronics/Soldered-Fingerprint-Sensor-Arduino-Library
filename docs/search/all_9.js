@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['sendaddress_17',['sendAddress',['../class_easy_c.html#a10aa7df19e8c7bf12cd720b662f317a3',1,'EasyC']]],
-  ['senddata_18',['sendData',['../class_easy_c.html#afe8aa014ae53cad3b0f3c42f59277195',1,'EasyC']]],
-  ['sensor_19',['Sensor',['../class_sensor.html',1,'Sensor'],['../class_sensor.html#a2b8ea6b15267f6fa0e263f57a09f6b62',1,'Sensor::Sensor()']]]
+  ['ledcontrol_36',['LEDcontrol',['../class_adafruit___fingerprint.html#a56c51d115af39415ae16e8707491894b',1,'Adafruit_Fingerprint::LEDcontrol(bool on)'],['../class_adafruit___fingerprint.html#ad5a8b73e0769cf64d44b04b065db87ef',1,'Adafruit_Fingerprint::LEDcontrol(uint8_t control, uint8_t speed, uint8_t coloridx, uint8_t count=0)']]],
+  ['length_37',['length',['../struct_adafruit___fingerprint___packet.html#ab6cee6fbb3fdabf8ad3fc692cdb32e13',1,'Adafruit_Fingerprint_Packet']]],
+  ['loadmodel_38',['loadModel',['../class_adafruit___fingerprint.html#a4bac8a559ccbfecf91b3e716adab409a',1,'Adafruit_Fingerprint']]]
 ];

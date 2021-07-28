@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['initializenative_29',['initializeNative',['../class_sensor.html#adb537c76173019fddf84b2d89e6c6559',1,'Sensor::initializeNative()'],['../class_easy_c.html#a48c8aa55d48ef0cc11047cab0735c998',1,'EasyC::initializeNative()']]]
+  ['checkpassword_77',['checkPassword',['../class_adafruit___fingerprint.html#a75f42794d3f2c28dd0bb6d04d9eab760',1,'Adafruit_Fingerprint']]],
+  ['createmodel_78',['createModel',['../class_adafruit___fingerprint.html#a79d36eb63d36c60ab43198ac47120f76',1,'Adafruit_Fingerprint']]]
 ];

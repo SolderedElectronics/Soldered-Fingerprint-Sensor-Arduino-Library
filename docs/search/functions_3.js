@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['readdata_30',['readData',['../class_easy_c.html#a9a3d39be50b348768bc4b5dea3dae01a',1,'EasyC']]],
-  ['readregister_31',['readRegister',['../class_easy_c.html#a45bd6c915c1fa0998e273f69ee2d2376',1,'EasyC']]]
+  ['deletemodel_79',['deleteModel',['../class_adafruit___fingerprint.html#a69d8b605f297a71f924dd71b8db075b1',1,'Adafruit_Fingerprint']]]
 ];

@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['readdata_14',['readData',['../class_easy_c.html#a9a3d39be50b348768bc4b5dea3dae01a',1,'EasyC']]],
-  ['readme_2emd_15',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]],
-  ['readregister_16',['readRegister',['../class_easy_c.html#a45bd6c915c1fa0998e273f69ee2d2376',1,'EasyC']]]
+  ['image2tz_34',['image2Tz',['../class_adafruit___fingerprint.html#adf222c3c7bba96f916729a8c9d213aa8',1,'Adafruit_Fingerprint']]],
+  ['initializenative_35',['initializeNative',['../class_easy_c.html#a48c8aa55d48ef0cc11047cab0735c998',1,'EasyC']]]
 ];

@@ -1,4 +1,10 @@
 var searchData=
 [
-  ['initializenative_10',['initializeNative',['../class_sensor.html#adb537c76173019fddf84b2d89e6c6559',1,'Sensor::initializeNative()'],['../class_easy_c.html#a48c8aa55d48ef0cc11047cab0735c998',1,'EasyC::initializeNative()']]]
+  ['fingerfastsearch_21',['fingerFastSearch',['../class_adafruit___fingerprint.html#a8507ddc13aa2697779740e5fade9db1a',1,'Adafruit_Fingerprint']]],
+  ['fingerid_22',['fingerID',['../class_adafruit___fingerprint.html#ad07bc0a05aff5467781e6c87bf1292e9',1,'Adafruit_Fingerprint']]],
+  ['fingerprint_20sensor_20arduino_20library_23',['Fingerprint Sensor Arduino library',['../index.html',1,'']]],
+  ['fingerprint_2dsensor_2dsoldered_2ecpp_24',['Fingerprint-Sensor-SOLDERED.cpp',['../_fingerprint-_sensor-_s_o_l_d_e_r_e_d_8cpp.html',1,'']]],
+  ['fingerprint_2dsensor_2dsoldered_2eh_25',['Fingerprint-Sensor-SOLDERED.h',['../_fingerprint-_sensor-_s_o_l_d_e_r_e_d_8h.html',1,'']]],
+  ['fingerprintsensor_26',['FingerprintSensor',['../class_fingerprint_sensor.html',1,'FingerprintSensor'],['../class_fingerprint_sensor.html#a0fc0443145351a825322f3c41a9c02d5',1,'FingerprintSensor::FingerprintSensor(SoftwareSerial *ss, uint32_t password=0x0)'],['../class_fingerprint_sensor.html#a0b851893240bdd45a063c02dd8e37de5',1,'FingerprintSensor::FingerprintSensor(HardwareSerial *hs, uint32_t password=0x0)'],['../class_fingerprint_sensor.html#a3d91497900355532bbf529e251af1052',1,'FingerprintSensor::FingerprintSensor(Stream *serial, uint32_t password=0x0)']]],
+  ['fingersearch_27',['fingerSearch',['../class_adafruit___fingerprint.html#a3954d24f30799b752cb310ceacaa697e',1,'Adafruit_Fingerprint']]]
 ];

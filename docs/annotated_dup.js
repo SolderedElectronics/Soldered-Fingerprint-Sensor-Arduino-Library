@@ -6,6 +6,8 @@ var annotated_dup =
     [ "About Soldered", "index.html#autotoc_md4", null ],
     [ "Original source", "index.html#autotoc_md5", null ],
     [ "Open-source license", "index.html#autotoc_md6", null ],
+    [ "Adafruit_Fingerprint", "class_adafruit___fingerprint.html", "class_adafruit___fingerprint" ],
+    [ "Adafruit_Fingerprint_Packet", "struct_adafruit___fingerprint___packet.html", "struct_adafruit___fingerprint___packet" ],
     [ "EasyC", "class_easy_c.html", "class_easy_c" ],
-    [ "Sensor", "class_sensor.html", "class_sensor" ]
+    [ "FingerprintSensor", "class_fingerprint_sensor.html", "class_fingerprint_sensor" ]
 ];
