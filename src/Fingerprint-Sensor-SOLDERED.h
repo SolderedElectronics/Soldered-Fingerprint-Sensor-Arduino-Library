@@ -13,7 +13,6 @@
 #define __FINGERPRINT_SENSOR_SOLDERED__
 
 #include "Arduino.h"
-// #include "libs/Generic-easyC/easyC.h"
 #include "libs/Adafruit-Fingerprint-Sensor-Library/Adafruit_Fingerprint.h"
 
 class FingerprintSensor : public Adafruit_Fingerprint
