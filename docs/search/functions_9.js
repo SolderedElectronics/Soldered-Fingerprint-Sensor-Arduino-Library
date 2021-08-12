@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['readdata_94',['readData',['../class_easy_c.html#a9a3d39be50b348768bc4b5dea3dae01a',1,'EasyC']]],
-  ['readregister_95',['readRegister',['../class_easy_c.html#a45bd6c915c1fa0998e273f69ee2d2376',1,'EasyC']]]
+  ['setpassword_77',['setPassword',['../class_adafruit___fingerprint.html#a71d38fce7ab2eacb63d222e71cac65af',1,'Adafruit_Fingerprint']]],
+  ['storemodel_78',['storeModel',['../class_adafruit___fingerprint.html#a14d8097e5ce038322913b43e026427e5',1,'Adafruit_Fingerprint']]]
 ];

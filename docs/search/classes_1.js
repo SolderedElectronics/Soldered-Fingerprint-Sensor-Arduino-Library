@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['easyc_64',['EasyC',['../class_easy_c.html',1,'']]]
+  ['fingerprintsensor_52',['FingerprintSensor',['../class_fingerprint_sensor.html',1,'']]]
 ];

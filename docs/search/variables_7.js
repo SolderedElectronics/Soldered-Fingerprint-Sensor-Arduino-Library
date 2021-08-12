@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['length_113',['length',['../struct_adafruit___fingerprint___packet.html#ab6cee6fbb3fdabf8ad3fc692cdb32e13',1,'Adafruit_Fingerprint_Packet']]]
+  ['myserial_90',['mySerial',['../class_adafruit___fingerprint.html#a9fdf25111a186faf7e6fd7bfa9cf6097',1,'Adafruit_Fingerprint']]]
 ];

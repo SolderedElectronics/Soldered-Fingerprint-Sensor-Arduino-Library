@@ -4,5 +4,5 @@ var searchData=
   ['adafruit_5ffingerprint_2ecpp_1',['Adafruit_Fingerprint.cpp',['../_adafruit___fingerprint_8cpp.html',1,'']]],
   ['adafruit_5ffingerprint_2eh_2',['Adafruit_Fingerprint.h',['../_adafruit___fingerprint_8h.html',1,'']]],
   ['adafruit_5ffingerprint_5fpacket_3',['Adafruit_Fingerprint_Packet',['../struct_adafruit___fingerprint___packet.html',1,'Adafruit_Fingerprint_Packet'],['../struct_adafruit___fingerprint___packet.html#a579e2e548a944cdc3a84f6cc5c62eee1',1,'Adafruit_Fingerprint_Packet::Adafruit_Fingerprint_Packet(uint8_t type, uint16_t length, uint8_t *data)']]],
-  ['address_4',['address',['../struct_adafruit___fingerprint___packet.html#a9b2ba91c550108b443a9113cf387f060',1,'Adafruit_Fingerprint_Packet::address()'],['../class_easy_c.html#a6f4c6f2e8723b0c0495e126d49f5fcda',1,'EasyC::address()']]]
+  ['address_4',['address',['../struct_adafruit___fingerprint___packet.html#a9b2ba91c550108b443a9113cf387f060',1,'Adafruit_Fingerprint_Packet']]]
 ];
