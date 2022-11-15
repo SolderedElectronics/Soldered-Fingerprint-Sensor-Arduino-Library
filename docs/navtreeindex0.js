@@ -62,6 +62,7 @@ var NAVTREEINDEX0 =
 "hierarchy.html":[1,2],
 "index.html":[0],
 "index.html":[],
+"index.html#autotoc_md8":[0,0],
 "pages.html":[],
 "struct_adafruit___fingerprint___packet.html":[1,0,1],
 "struct_adafruit___fingerprint___packet.html#a46a35b2aaa8320ad4afe55696918ac12":[1,0,1,2],
