@@ -25,9 +25,7 @@
 var NAVTREE =
 [
   [ "Fingerprint Sensor Library", "index.html", [
-    [ "Fingerprint sensor adapter Arduino library", "index.html", [
-      [ "Have fun!", "index.html#autotoc_md8", null ]
-    ] ],
+    [ "Fingerprint sensor adapter Arduino library", "index.html", "index" ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
